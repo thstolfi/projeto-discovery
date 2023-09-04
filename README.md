@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks - Theilor Stolfi </h1>
+<h1 align="center"> DevLinks - Theilor Stolfi</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="" width="100%">
+  <img alt="projeto DevLinks" src="assets/project-discovery.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
